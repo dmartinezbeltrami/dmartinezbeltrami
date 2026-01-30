@@ -71,6 +71,6 @@ I’m prioritizing **quality over quantity** here: each repo is small, readable,
 
 - 📧 **Email:** dp.martinezb@gmail.com  
 - 🌎 **Location:** Chile  
-- 🔗 **LinkedIn:** *linkedin.com/in/dpmartinezb/*
+- 🔗 **LinkedIn:** linkedin.com/in/dpmartinezb/
 
 If you want to talk about embedded CV systems, edge AI, or migrating pipelines from weird hardware, feel free to reach out 🙂
